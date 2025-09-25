@@ -11,7 +11,7 @@
 
 **🎯 Un système complet et automatisé pour maximiser vos chances de décrocher l'alternance de vos rêves**
 
-*🤖 Développé par [Manus AI](https://manus.im) pour Eulogé Junior MABIALA - Étudiant Ingénieur ESIEA*
+*🤖 Développé par  Eulogé Junior MABIALA - Étudiant Ingénieur ESIEA*
 
 [![GitHub stars](https://img.shields.io/github/stars/eulogep/Automatisation-de-Candidatures-pour-Alternance?style=social)](https://github.com/eulogep/Automatisation-de-Candidatures-pour-Alternance/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/eulogep/Automatisation-de-Candidatures-pour-Alternance?style=social)](https://github.com/eulogep/Automatisation-de-Candidatures-pour-Alternance/network)
