@@ -330,7 +330,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 [![GitHub stars](https://img.shields.io/github/stars/eulogep/Automatisation-de-Candidatures-pour-Alternance?style=for-the-badge&logo=github)](https://github.com/eulogep/Automatisation-de-Candidatures-pour-Alternance/stargazers)
 
-**🤖 Développé avec ❤️ par [Manus AI](https://manus.im)**
+**🤖 Développé avec ❤️ par MABIALA EULOGE JUNIOR**
 
 *🚀 Transformons ensemble votre recherche d'alternance en success story !*
 
